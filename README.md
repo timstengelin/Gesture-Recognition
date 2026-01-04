@@ -1,2 +1,2 @@
-# gestureRecognition-repo
+# Gesture-Recognition
 
